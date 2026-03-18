@@ -1,7 +1,7 @@
 
 # The Quest for Generalizable Motion Generation: Data, Model, and Evaluation
 
-[![Homepage](https://img.shields.io/badge/Project%20-%20Homepage-4285F4)](https://linjing7.github.io/vimogen/)
+[![Homepage](https://img.shields.io/badge/Project%20-%20Homepage-4285F4)](https://motrixlab.github.io/2026_iclr_vimogen)
 
 [![arXiv](https://img.shields.io/badge/arXiv-PDF-red?logo=arxiv)](https://arxiv.org/abs/2510.26794)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Paper-orange)](https://huggingface.co/papers/2510.26794)
