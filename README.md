@@ -33,6 +33,7 @@ Motivated by this observation, we present **ViMoGen**, a comprehensive framework
 *   **MBench Benchmark**: A hierarchical benchmark designed for fine-grained evaluation across motion quality, prompt fidelity, and generalization ability.
 
 ## News
+- [2025-01-26] Our work got accepted to ICLR 2026!
 - [2025-12-19] We have released the ViMoGen-DiT pretrained weights along with the core inference pipeline.
 - [2025-12-18] We have released the [ViMoGen-228K Dataset](https://huggingface.co/datasets/wruisi/ViMoGen-228K) and [MBench leaderboard](https://huggingface.co/spaces/wruisi/MBench_leaderboard).
 ## Release Plan
